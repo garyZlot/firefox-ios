@@ -27,6 +27,32 @@
 		048B4C8724A53F3E001B56E8 /* TodayUX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B4C8524A53F3E001B56E8 /* TodayUX.swift */; };
 		048B4C8924A53F81001B56E8 /* UIButtonExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B4C8824A53F81001B56E8 /* UIButtonExtensions.swift */; };
 		048B4C8A24A53F81001B56E8 /* UIButtonExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 048B4C8824A53F81001B56E8 /* UIButtonExtensions.swift */; };
+		0767E6BF2763BBCC006C23C1 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6BE2763BBCC006C23C1 /* SwiftyJSON.framework */; platformFilter = ios; };
+		0767E6C32763BF60006C23C1 /* XCGLogger.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6C22763BF60006C23C1 /* XCGLogger.framework */; platformFilter = ios; };
+		0767E6CE2763C032006C23C1 /* XCGLogger.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6C22763BF60006C23C1 /* XCGLogger.framework */; };
+		0767E6CF2763C04D006C23C1 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6BE2763BBCC006C23C1 /* SwiftyJSON.framework */; };
+		0767E6D32763C175006C23C1 /* SwiftProtobuf.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6D22763C175006C23C1 /* SwiftProtobuf.framework */; };
+		0767E6D42763C196006C23C1 /* SwiftProtobuf.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6D22763C175006C23C1 /* SwiftProtobuf.framework */; };
+		0767E6D62763C20C006C23C1 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6D52763C20C006C23C1 /* SnapKit.framework */; };
+		0767E6D72763C237006C23C1 /* Sentry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6C52763BFA9006C23C1 /* Sentry.framework */; };
+		0767E6D82763C255006C23C1 /* SwiftProtobuf.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6D22763C175006C23C1 /* SwiftProtobuf.framework */; };
+		0767E6DB2763C29B006C23C1 /* GCDWebServers.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6DA2763C29B006C23C1 /* GCDWebServers.framework */; };
+		0767E6DC2763C2D3006C23C1 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6CB2763BFEC006C23C1 /* SDWebImage.framework */; };
+		0767E6DD2763C2E9006C23C1 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6BE2763BBCC006C23C1 /* SwiftyJSON.framework */; };
+		0767E6DE2763C2F9006C23C1 /* XCGLogger.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6C22763BF60006C23C1 /* XCGLogger.framework */; };
+		0767E6DF2763C36F006C23C1 /* SwiftProtobuf.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6D22763C175006C23C1 /* SwiftProtobuf.framework */; };
+		0767E6E02763C374006C23C1 /* XCGLogger.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6C22763BF60006C23C1 /* XCGLogger.framework */; };
+		0767E6E12763C38C006C23C1 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6BE2763BBCC006C23C1 /* SwiftyJSON.framework */; };
+		0767E6E22763C38F006C23C1 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6CB2763BFEC006C23C1 /* SDWebImage.framework */; };
+		0767E6E42763C3A1006C23C1 /* Sentry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6C52763BFA9006C23C1 /* Sentry.framework */; };
+		0767E6E52763C3D0006C23C1 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6D52763C20C006C23C1 /* SnapKit.framework */; };
+		0767E6E72763C424006C23C1 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6D52763C20C006C23C1 /* SnapKit.framework */; };
+		0767E6E82763C464006C23C1 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6CB2763BFEC006C23C1 /* SDWebImage.framework */; };
+		0767E6E927642EF9006C23C1 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B604F9A1C4950F2006EEEC3 /* SDWebImage.framework */; };
+		0767E6EB27642EFA006C23C1 /* SDWebImageMapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6EA27642EFA006C23C1 /* SDWebImageMapKit.framework */; };
+		0767E6EC27642F0C006C23C1 /* Sentry.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E46175F21EBB73A10021AE8A /* Sentry.framework */; };
+		0767E6EF27643083006C23C1 /* SwiftProtobuf.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6D22763C175006C23C1 /* SwiftProtobuf.framework */; };
+		0767E6F02764340B006C23C1 /* SDWebImageMapKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 0767E6EA27642EFA006C23C1 /* SDWebImageMapKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		0B305E1B1E3A98A900BE0767 /* BookmarkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B305E1A1E3A98A900BE0767 /* BookmarkingTests.swift */; };
 		0B3D670E1E09B90B00C1EFC7 /* AuthenticationTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B3D670D1E09B90B00C1EFC7 /* AuthenticationTest.swift */; };
 		0B54BD191B698B7C004C822C /* SuggestedSites.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B54BD181B698B7C004C822C /* SuggestedSites.swift */; };
@@ -221,7 +247,6 @@
 		39C22C2F1E897BA7000C0E56 /* LivePushClientTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C22C2C1E897B9A000C0E56 /* LivePushClientTests.swift */; };
 		39C261CC2018DE21009D97BD /* FxScreenGraphTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39C261CB2018DE20009D97BD /* FxScreenGraphTests.swift */; };
 		39D056382665235700FBEE59 /* initial_experiments.json in Resources */ = {isa = PBXBuildFile; fileRef = 3964F5FB2656D2B500065278 /* initial_experiments.json */; };
-		39D9E6851C89E9690071FADA /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B604FA11C495268006EEEC3 /* SnapKit.framework */; };
 		39DD030D1CD53E1900BC09B3 /* HomePageHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39DD030C1CD53E1900BC09B3 /* HomePageHelper.swift */; };
 		39E65D191CA455A900C63CE3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 391AEFD11C8F11ED00691F84 /* Images.xcassets */; };
 		39E65D271CA5B92000C63CE3 /* AsyncReducerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39E65D261CA5B92000C63CE3 /* AsyncReducerTests.swift */; };
@@ -247,7 +272,6 @@
 		3B6889C51D66950E002AC85E /* UIImageColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6889C41D66950E002AC85E /* UIImageColors.swift */; };
 		3B6F40181DC7849C00656CC6 /* FirefoxHomeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B6F40171DC7849C00656CC6 /* FirefoxHomeTests.swift */; };
 		3BA9A0231D2C208C00BD418C /* Fuzi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BA9A0221D2C208C00BD418C /* Fuzi.framework */; };
-		3BA9A0321D2C2C0500BD418C /* Fuzi.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BA9A0221D2C208C00BD418C /* Fuzi.framework */; };
 		3BB50E111D6274CD004B33DF /* FirefoxHomeTopSitesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB50E101D6274CD004B33DF /* FirefoxHomeTopSitesCell.swift */; };
 		3BB50E201D627539004B33DF /* FirefoxHomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB50E1F1D627539004B33DF /* FirefoxHomeViewController.swift */; };
 		3BC659491E5BA4AE006D560F /* TopSites in Resources */ = {isa = PBXBuildFile; fileRef = 3BC659481E5BA4AE006D560F /* TopSites */; };
@@ -365,7 +389,6 @@
 		7B4980A81CE363ED0017547C /* Settings.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B4980A71CE363ED0017547C /* Settings.xcassets */; };
 		7B604F991C494F74006EEEC3 /* KIF.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B604F981C494F74006EEEC3 /* KIF.framework */; };
 		7B604F9B1C4950F2006EEEC3 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B604F9A1C4950F2006EEEC3 /* SDWebImage.framework */; };
-		7B604F9D1C495143006EEEC3 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B604F9A1C4950F2006EEEC3 /* SDWebImage.framework */; };
 		7B604FA21C495268006EEEC3 /* SnapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B604FA11C495268006EEEC3 /* SnapKit.framework */; };
 		7B604FBB1C495D8A006EEEC3 /* XCGLogger.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B604FBA1C495D8A006EEEC3 /* XCGLogger.framework */; };
 		7B604FBF1C495E60006EEEC3 /* XCGLogger.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B604FBA1C495D8A006EEEC3 /* XCGLogger.framework */; };
@@ -878,7 +901,6 @@
 		EBC9D38722D4D56F0011D881 /* disconnect-block-cookies-content.json in Resources */ = {isa = PBXBuildFile; fileRef = EBC9D38322D4D56F0011D881 /* disconnect-block-cookies-content.json */; };
 		EBC9D38822D4D56F0011D881 /* disconnect-block-cookies-social.json in Resources */ = {isa = PBXBuildFile; fileRef = EBC9D38422D4D56F0011D881 /* disconnect-block-cookies-social.json */; };
 		EBC9D38922D4D56F0011D881 /* disconnect-block-cookies-advertising.json in Resources */ = {isa = PBXBuildFile; fileRef = EBC9D38522D4D56F0011D881 /* disconnect-block-cookies-advertising.json */; };
-		EBCF403B221CBC5B00B38F28 /* SwiftProtobuf.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBCF403A221CBC5B00B38F28 /* SwiftProtobuf.framework */; };
 		EBE26B57220C959D00D1D99A /* BrowserViewController+TabToolbarDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBE26B4E220C959D00D1D99A /* BrowserViewController+TabToolbarDelegate.swift */; };
 		EBE7635820ADCB7600E27F2D /* SendTo.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBE7634F20ADCB7500E27F2D /* SendTo.xcassets */; };
 		EBE7635920ADCB7600E27F2D /* SendTo.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBE7634F20ADCB7500E27F2D /* SendTo.xcassets */; };
@@ -1190,6 +1212,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		0767E6C12763BBCC006C23C1 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				0767E6F02764340B006C23C1 /* SDWebImageMapKit.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0B21E8011E26C5D3000C8779 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -1300,6 +1333,14 @@
 		06B047059F979C332C6222A9 /* nb */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = nb; path = nb.lproj/ClearPrivateDataConfirm.strings; sourceTree = "<group>"; };
 		06E54DEC9DE74B87D48067C5 /* eo */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = eo; path = eo.lproj/ErrorPages.strings; sourceTree = "<group>"; };
 		0708492BA7C13088D89E3F9E /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = pl; path = pl.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0767E6BE2763BBCC006C23C1 /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = "Carthage/Build/SwiftyJSON.xcframework/ios-arm64/SwiftyJSON.framework"; sourceTree = "<group>"; };
+		0767E6C22763BF60006C23C1 /* XCGLogger.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCGLogger.framework; path = "Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7/XCGLogger.framework"; sourceTree = "<group>"; };
+		0767E6C52763BFA9006C23C1 /* Sentry.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Sentry.framework; path = "Carthage/Build/Sentry.xcframework/ios-arm64/Sentry.framework"; sourceTree = "<group>"; };
+		0767E6CB2763BFEC006C23C1 /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImage.framework; path = "Carthage/Build/SDWebImage.xcframework/ios-arm64/SDWebImage.framework"; sourceTree = "<group>"; };
+		0767E6D22763C175006C23C1 /* SwiftProtobuf.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftProtobuf.framework; path = "Carthage/Build/SwiftProtobuf.xcframework/ios-arm64/SwiftProtobuf.framework"; sourceTree = "<group>"; };
+		0767E6D52763C20C006C23C1 /* SnapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SnapKit.framework; path = "Carthage/Build/SnapKit.xcframework/ios-arm64/SnapKit.framework"; sourceTree = "<group>"; };
+		0767E6DA2763C29B006C23C1 /* GCDWebServers.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GCDWebServers.framework; path = "Carthage/Build/GCDWebServers.xcframework/ios-arm64/GCDWebServers.framework"; sourceTree = "<group>"; };
+		0767E6EA27642EFA006C23C1 /* SDWebImageMapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImageMapKit.framework; path = Carthage/Build/iOS/SDWebImageMapKit.framework; sourceTree = "<group>"; };
 		07A64653B8D2C8D2DEB877AC /* or */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = or; path = or.lproj/3DTouchActions.strings; sourceTree = "<group>"; };
 		07AD403CAD139A67BB608CC5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Shared.strings; sourceTree = "<group>"; };
 		07CF443C99F56ECC48E9BCB0 /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/InfoPlist.strings; sourceTree = "<group>"; };
@@ -4192,6 +4233,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0767E6DE2763C2F9006C23C1 /* XCGLogger.framework in Frameworks */,
+				0767E6DD2763C2E9006C23C1 /* SwiftyJSON.framework in Frameworks */,
+				0767E6DC2763C2D3006C23C1 /* SDWebImage.framework in Frameworks */,
+				0767E6DB2763C29B006C23C1 /* GCDWebServers.framework in Frameworks */,
+				0767E6D82763C255006C23C1 /* SwiftProtobuf.framework in Frameworks */,
+				0767E6D72763C237006C23C1 /* Sentry.framework in Frameworks */,
 				C8CC4F8725253E79003FDE1F /* WidgetKit.framework in Frameworks */,
 				43118CDD251A9CA700F24376 /* Shared.framework in Frameworks */,
 				047F9B2924E1FE1C00CD7DF7 /* SwiftUI.framework in Frameworks */,
@@ -4204,6 +4251,11 @@
 			files = (
 				C820439A2523DC4500740B71 /* libStorage.a in Frameworks */,
 				D09A0CDC1FAA24CC009A0273 /* libAccount.a in Frameworks */,
+				0767E6E02763C374006C23C1 /* XCGLogger.framework in Frameworks */,
+				0767E6E42763C3A1006C23C1 /* Sentry.framework in Frameworks */,
+				0767E6E12763C38C006C23C1 /* SwiftyJSON.framework in Frameworks */,
+				0767E6E22763C38F006C23C1 /* SDWebImage.framework in Frameworks */,
+				0767E6DF2763C36F006C23C1 /* SwiftProtobuf.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4220,6 +4272,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0767E6EC27642F0C006C23C1 /* Sentry.framework in Frameworks */,
+				0767E6EB27642EFA006C23C1 /* SDWebImageMapKit.framework in Frameworks */,
+				0767E6E927642EF9006C23C1 /* SDWebImage.framework in Frameworks */,
+				0767E6BF2763BBCC006C23C1 /* SwiftyJSON.framework in Frameworks */,
+				0767E6C32763BF60006C23C1 /* XCGLogger.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4227,13 +4284,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0767E6EF27643083006C23C1 /* SwiftProtobuf.framework in Frameworks */,
 				C82043852523DBF600740B71 /* Sync.framework in Frameworks */,
 				C877037A25222F30006E38EB /* Shared.framework in Frameworks */,
 				C8E18F20222EDED000E30E52 /* SafariServices.framework in Frameworks */,
 				C8E18F1E222EDE4500E30E52 /* Accelerate.framework in Frameworks */,
 				F8324A7C2649A5A5007E4BFA /* AuthenticationServices.framework in Frameworks */,
 				E6231C051B90A472005ABB0D /* libxml2.2.tbd in Frameworks */,
-				EBCF403B221CBC5B00B38F28 /* SwiftProtobuf.framework in Frameworks */,
 				4357697525B733CC0017B210 /* MozillaAppServices.framework in Frameworks */,
 				E6231C011B90A44F005ABB0D /* libz.tbd in Frameworks */,
 				E4B3348A1BBF23F9004E2BFF /* AdSupport.framework in Frameworks */,
@@ -4255,6 +4312,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0767E6D42763C196006C23C1 /* SwiftProtobuf.framework in Frameworks */,
 				C820443825241D3100740B71 /* libSyncTelemetry.a in Frameworks */,
 				C8340C4F24EC69EE00FE91A6 /* libcrypto.a in Frameworks */,
 				C8340C5024EC69EE00FE91A6 /* libssl.a in Frameworks */,
@@ -4273,6 +4331,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0767E6D32763C175006C23C1 /* SwiftProtobuf.framework in Frameworks */,
 				C8E18F22222EE11B00E30E52 /* MozillaAppServices.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -4288,9 +4347,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0767E6D62763C20C006C23C1 /* SnapKit.framework in Frameworks */,
 				39409A3F1C90E68300DAE683 /* Shared.framework in Frameworks */,
 				3905274C1C874D35007E0BB7 /* NotificationCenter.framework in Frameworks */,
-				39D9E6851C89E9690071FADA /* SnapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4348,6 +4407,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0767E6CF2763C04D006C23C1 /* SwiftyJSON.framework in Frameworks */,
+				0767E6CE2763C032006C23C1 /* XCGLogger.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -4371,6 +4432,7 @@
 			files = (
 				F8324A072649A188007E4BFA /* AuthenticationServices.framework in Frameworks */,
 				F8324AF62649B540007E4BFA /* Shared.framework in Frameworks */,
+				0767E6E72763C424006C23C1 /* SnapKit.framework in Frameworks */,
 				F8324AFA2649B540007E4BFA /* Sync.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -4387,11 +4449,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0767E6E82763C464006C23C1 /* SDWebImage.framework in Frameworks */,
 				C82043AF2523DC9600740B71 /* Sync.framework in Frameworks */,
 				C877039625222FDC006E38EB /* Shared.framework in Frameworks */,
-				3BA9A0321D2C2C0500BD418C /* Fuzi.framework in Frameworks */,
+				0767E6E52763C3D0006C23C1 /* SnapKit.framework in Frameworks */,
 				0B75AEA91AC20FB20015E5DC /* ImageIO.framework in Frameworks */,
-				7B604F9D1C495143006EEEC3 /* SDWebImage.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -5071,6 +5133,14 @@
 		7B604FC11C496005006EEEC3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0767E6EA27642EFA006C23C1 /* SDWebImageMapKit.framework */,
+				0767E6DA2763C29B006C23C1 /* GCDWebServers.framework */,
+				0767E6D52763C20C006C23C1 /* SnapKit.framework */,
+				0767E6D22763C175006C23C1 /* SwiftProtobuf.framework */,
+				0767E6CB2763BFEC006C23C1 /* SDWebImage.framework */,
+				0767E6C52763BFA9006C23C1 /* Sentry.framework */,
+				0767E6C22763BF60006C23C1 /* XCGLogger.framework */,
+				0767E6BE2763BBCC006C23C1 /* SwiftyJSON.framework */,
 				D05434BF2257DE9900FDE4EF /* Leanplum.framework */,
 				C8E18F1F222EDED000E30E52 /* SafariServices.framework */,
 				C8E18F1D222EDE4400E30E52 /* Accelerate.framework */,
@@ -6479,6 +6549,7 @@
 				288A2D811AB8B3260023ABC3 /* Sources */,
 				288A2D821AB8B3260023ABC3 /* Frameworks */,
 				288A2D841AB8B3260023ABC3 /* Resources */,
+				0767E6C12763BBCC006C23C1 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -6852,7 +6923,6 @@
 				TargetAttributes = {
 					047F9B2624E1FE1C00CD7DF7 = {
 						CreatedOnToolsVersion = 12.0;
-						DevelopmentTeam = 43AQ936H96;
 					};
 					2827315D1ABC9BE600AA1954 = {
 						CreatedOnToolsVersion = 6.2;
@@ -10760,6 +10830,16 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = WCB96B7533;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Sync/Info.plist;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Sync/Sync-Bridging-Header.h";
 			};
@@ -10783,7 +10863,16 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Manual;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 43AQ936H96;
+				DEVELOPMENT_TEAM = WCB96B7533;
+				EXCLUDED_ARCHS = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImageMapKit.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = "Shared/Supporting Files/Info.plist";
 				LOCALIZED_STRING_MACRO_NAMES = (
 					MZLocalizedString,
@@ -10801,6 +10890,10 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEFINES_MODULE = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -10834,6 +10927,11 @@
 			buildSettings = {
 				DEFINES_MODULE = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Storage/Info.plist;
 				SKIP_INSTALL = YES;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Storage/Storage-Bridging-Header.h";
@@ -10857,10 +10955,14 @@
 				CODE_SIGN_ENTITLEMENTS = "$(inherit)Extensions/Entitlements/Fennec.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 43AQ936H96;
+				DEVELOPMENT_TEAM = WCB96B7533;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Extensions/Today/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_FENNEC -DMOZ_TARGET_TODAY";
-				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.zlot.Fennec.Today;
 				PRODUCT_NAME = Today;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = NO;
@@ -10874,6 +10976,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Extensions/Today/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_RELEASE -DMOZ_TARGET_TODAY";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
@@ -10890,6 +10996,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Extensions/Today/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_BETA -DMOZ_TARGET_TODAY";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
@@ -10920,10 +11030,10 @@
 				CODE_SIGN_ENTITLEMENTS = "$(inherit)Extensions/Entitlements/Fennec.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 43AQ936H96;
+				DEVELOPMENT_TEAM = WCB96B7533;
 				INFOPLIST_FILE = Extensions/NotificationService/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_FENNEC -DMOZ_TARGET_NOTIFICATIONSERVICE";
-				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.zlot.Fennec.NotificationService;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = NO;
 			};
@@ -11032,10 +11142,20 @@
 				CODE_SIGN_ENTITLEMENTS = Extensions/Entitlements/Fennec.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 43AQ936H96;
+				DEVELOPMENT_TEAM = WCB96B7533;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/GCDWebServers.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+				);
 				INFOPLIST_FILE = WidgetKit/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).WidgetKit";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.zlot.Fennec.WidgetKit;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = NO;
 			};
@@ -11048,6 +11168,16 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/GCDWebServers.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				PINFOPLIST_FILE = WidgetKit/Info.plist;
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).WidgetKit";
@@ -11063,6 +11193,16 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/GCDWebServers.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+				);
 				INFOPLIST_FILE = WidgetKit/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).WidgetKit";
@@ -11078,6 +11218,16 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/GCDWebServers.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+				);
 				INFOPLIST_FILE = WidgetKit/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).WidgetKit";
@@ -11121,6 +11271,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Client/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -11153,6 +11307,12 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Extensions/ShareTo/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_RELEASE -DMOZ_TARGET_SHARETO";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
@@ -11179,6 +11339,15 @@
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 43AQ936H96;
 				ENABLE_TESTABILITY = YES;
+				EXCLUDED_ARCHS = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImageMapKit.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = "Shared/Supporting Files/Info.plist";
 				LOCALIZED_STRING_MACRO_NAMES = (
 					MZLocalizedString,
@@ -11196,6 +11365,11 @@
 			buildSettings = {
 				DEFINES_MODULE = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Storage/Info.plist;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Storage/Storage-Bridging-Header.h";
 			};
@@ -11217,6 +11391,10 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEFINES_MODULE = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -11252,6 +11430,15 @@
 				CODE_SIGN_ENTITLEMENTS = "";
 				DEFINES_MODULE = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Sync/Info.plist;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Sync/Sync-Bridging-Header.h";
 			};
@@ -11324,6 +11511,11 @@
 		E69DB08D1E97DEAA008A67E6 /* Fennec */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = SyncTelemetry/Info.plist;
 			};
 			name = Fennec;
@@ -11331,6 +11523,11 @@
 		E69DB08E1E97DEAA008A67E6 /* Fennec_Enterprise */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = SyncTelemetry/Info.plist;
 			};
 			name = Fennec_Enterprise;
@@ -11338,6 +11535,11 @@
 		E69DB08F1E97DEAA008A67E6 /* Firefox */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = SyncTelemetry/Info.plist;
 			};
 			name = Firefox;
@@ -11345,6 +11547,11 @@
 		E69DB0901E97DEAA008A67E6 /* FirefoxBeta */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = SyncTelemetry/Info.plist;
 			};
 			name = FirefoxBeta;
@@ -11401,6 +11608,10 @@
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
 				EXCLUDED_SOURCE_FILE_NAMES = CredentialProvider.appex;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Client/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -11424,6 +11635,12 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Extensions/ShareTo/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_FENNEC -DMOZ_TARGET_SHARETO";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
@@ -11439,6 +11656,10 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Extensions/Today/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_FENNEC -DMOZ_TARGET_TODAY";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
@@ -11456,7 +11677,16 @@
 				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				CODE_SIGN_STYLE = Manual;
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 43AQ936H96;
+				DEVELOPMENT_TEAM = WCB96B7533;
+				EXCLUDED_ARCHS = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImageMapKit.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = "Shared/Supporting Files/Info.plist";
 				LOCALIZED_STRING_MACRO_NAMES = (
 					MZLocalizedString,
@@ -11473,6 +11703,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEFINES_MODULE = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Storage/Info.plist;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Storage/Storage-Bridging-Header.h";
 			};
@@ -11483,6 +11718,10 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEFINES_MODULE = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -11506,6 +11745,16 @@
 			buildSettings = {
 				CODE_SIGN_ENTITLEMENTS = "";
 				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = WCB96B7533;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Sync/Info.plist;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Sync/Sync-Bridging-Header.h";
 			};
@@ -11648,6 +11897,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Client/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -11680,6 +11933,12 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				CODE_SIGN_STYLE = Manual;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Extensions/ShareTo/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_BETA -DMOZ_TARGET_SHARETO";
 				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
@@ -11705,6 +11964,15 @@
 				CODE_SIGN_STYLE = Manual;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 43AQ936H96;
+				EXCLUDED_ARCHS = "";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImageMapKit.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = "Shared/Supporting Files/Info.plist";
 				LOCALIZED_STRING_MACRO_NAMES = (
 					MZLocalizedString,
@@ -11721,6 +11989,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				DEFINES_MODULE = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Storage/Info.plist;
 				SWIFT_OBJC_BRIDGING_HEADER = "$SRCROOT/Storage/Storage-Bridging-Header.h";
 			};
@@ -11743,6 +12016,10 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				DEFINES_MODULE = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
@@ -11782,6 +12059,15 @@
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = 43AQ936H96;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/XCGLogger.xcframework/ios-arm64_armv7",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftyJSON.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Sentry.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Sync/Info.plist;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				"PROVISIONING_PROFILE_SPECIFIER[sdk=macosx*]" = "";
@@ -11847,9 +12133,13 @@
 				CODE_SIGN_STYLE = Automatic;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = 43AQ936H96;
+				DEVELOPMENT_TEAM = WCB96B7533;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -11874,7 +12164,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.Fennec.CredentialProvider;
+				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.zlot.Fennec.CredentialProvider;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = iphoneos;
@@ -11926,6 +12216,10 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -11997,6 +12291,10 @@
 				DEVELOPMENT_TEAM = 43AQ936H96;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -12068,6 +12366,10 @@
 				DEVELOPMENT_TEAM = 43AQ936H96;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+				);
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -12112,12 +12414,16 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon_Developer;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 43AQ936H96;
+				DEVELOPMENT_TEAM = WCB96B7533;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SwiftProtobuf.xcframework/ios-arm64",
+				);
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID)";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.zlot.Fennec;
 				PRODUCT_MODULE_NAME = Client;
 				PRODUCT_NAME = Client;
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -12144,10 +12450,16 @@
 				CODE_SIGN_ENTITLEMENTS = "$(inherit)Extensions/Entitlements/Fennec.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 43AQ936H96;
+				DEVELOPMENT_TEAM = WCB96B7533;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/SnapKit.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/Fuzi.xcframework/ios-arm64",
+					"$(PROJECT_DIR)/Carthage/Build/SDWebImage.xcframework/ios-arm64",
+				);
 				INFOPLIST_FILE = Extensions/ShareTo/Info.plist;
 				OTHER_SWIFT_FLAGS = "-DMOZ_CHANNEL_FENNEC -DMOZ_TARGET_SHARETO";
-				PRODUCT_BUNDLE_IDENTIFIER = "$(MOZ_BUNDLE_ID).$(PRODUCT_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = org.mozilla.ios.zlot.Fennec.ShareTo;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SKIP_INSTALL = NO;
 			};
