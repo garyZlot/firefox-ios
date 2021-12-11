@@ -1,0 +1,54 @@
+website/build
+target
+credentials.json
+*-engine.json
+*.db
+.*.swp
+
+# Android stuff.
+*.iml
+.gradle
+local.properties
+.idea
+build
+.DS_Store
+captures
+.externalNativeBuild
+.lastAutoPublishContentsHash
+
+# iOS stuff.
+xcuserdata
+
+# Protobuf Swift
+*.pb.swift
+
+# UniFFI generated artifacts
+components/**/ios/Generated
+
+# Glean generated artifacts
+megazords/ios/MozillaAppServices/Generated/Metrics.swift
+megazords/ios/.venv
+megazords/ios-rust/MozillaRustComponents.xcframework*
+
+# Carthage generated artifacts
+Carthage
+MozillaAppServices.framework.zip
+raw_xcodebuild.log
+raw_xcodetest.log
+
+# Generated debug symbols
+crashreporter-symbols*
+automation/symbols-generation/bin/
+
+# Python
+__pycache__
+*.py[cod]
+.Python
+
+# Generated mdbook documentation files
+build/docs/*
+docs/book
+
+# Generated rustdocs
+docs/rust-docs
+

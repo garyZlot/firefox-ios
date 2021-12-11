@@ -64,7 +64,7 @@ python-env/
 # IDEA
 .idea
 
-Carthage/
+#Carthage/
 # Required for Glean
 /Client/Generated
 .venv/

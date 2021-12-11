@@ -1,0 +1,16 @@
+
+apply from: "$rootDir/build-scripts/component-common.gradle"
+apply from: "$rootDir/publish.gradle"
+
+dependencies {
+    // Part of the public API.
+    api project(':sync15')
+
+    testImplementation 'androidx.test:core-ktx:1.2.0'
+    testImplementation 'androidx.work:work-testing:2.2.0'
+    testImplementation project(":syncmanager")
+}
+
+ext.configureUniFFIBindgen("../src/autofill.udl")
+ext.dependsOnTheMegazord()
+ext.configurePublish()

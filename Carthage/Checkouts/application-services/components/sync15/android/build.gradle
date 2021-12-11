@@ -1,0 +1,5 @@
+
+apply from: "$rootDir/build-scripts/component-common.gradle"
+apply from: "$rootDir/publish.gradle"
+
+ext.configurePublish()
