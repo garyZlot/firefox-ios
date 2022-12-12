@@ -1,32 +1,48 @@
-"2GqvPe" = "Go to Copied Link";
+/* (No Comment) */
+"2GqvPe" = "Перайсці па скапіяванай спасылцы";
 
-"PzSrmZ-2GqvPe" = "Just to confirm, you wanted ‘Go to Copied Link’?";
+/* (No Comment) */
+"ctDNmu" = "Хуткі доступ да розных дзеянняў Firefox";
 
-"PzSrmZ-eHmH1H" = "Just to confirm, you wanted ‘Clear Private Tabs’?";
+/* (No Comment) */
+"eHmH1H" = "Закрыць прыватныя карткі";
 
-"PzSrmZ-scEmjs" = "Just to confirm, you wanted ‘New Private Search’?";
+/* (No Comment) */
+"eqyNJg" = "Хуткае дзеянне";
 
-"PzSrmZ-xRJbBP" = "Just to confirm, you wanted ‘New Search’?";
+/* (No Comment) */
+"eV8mOT" = "Тып хуткага дзеяння";
 
-"ctDNmu" = "Quick access to various Firefox actions";
+/* (No Comment) */
+"fi3W24-2GqvPe" = "Ёсць ${count} варыянтаў, якія адпавядаюць запыту \"Перайсці па скапіяванай спасылцы\".";
 
-"eHmH1H" = "Clear Private Tabs";
+/* (No Comment) */
+"fi3W24-eHmH1H" = "Ёсць ${count} варыянтаў, якія адпавядаюць запыту « Закрыць прыватныя карткі».";
 
-"eV8mOT" = "Quick Action Type";
+/* (No Comment) */
+"fi3W24-scEmjs" = "Ёсць ${count} варыянтаў, якія адпавядаюць запыту «Новы прыватны пошук».";
 
-"eqyNJg" = "Quick Action";
+/* (No Comment) */
+"fi3W24-xRJbBP" = "Ёсць ${count} варыянтаў, якія адпавядаюць запыту \"Новы пошук\".";
 
-"fi3W24-2GqvPe" = "There are ${count} options matching ‘Go to Copied Link’.";
+/* (No Comment) */
+"PzSrmZ-2GqvPe" = "Вы сапраўды хочаце «Перайсці па скапіяванай спасылцы»?";
 
-"fi3W24-eHmH1H" = "There are ${count} options matching ‘Clear Private Tabs’.";
+/* (No Comment) */
+"PzSrmZ-eHmH1H" = "Вы сапраўды хочаце «Закрыць прыватныя карткі»?";
 
-"fi3W24-scEmjs" = "There are ${count} options matching ‘New Private Search’.";
+/* (No Comment) */
+"PzSrmZ-scEmjs" = "Вы сапраўды хочаце выканаць «Новы прыватны пошук»?";
 
-"fi3W24-xRJbBP" = "There are ${count} options matching ‘New Search’.";
+/* (No Comment) */
+"PzSrmZ-xRJbBP" = "Вы сапраўды хочаце выканаць «Новы пошук»?";
 
-"scEmjs" = "New Private Search";
+/* (No Comment) */
+"scEmjs" = "Новы прыватны пошук";
 
-"w9jdPK" = "Quick Action";
+/* (No Comment) */
+"w9jdPK" = "Хуткае дзеянне";
 
-"xRJbBP" = "New Search";
+/* (No Comment) */
+"xRJbBP" = "Новы пошук";
 
